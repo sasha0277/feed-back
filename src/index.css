@@ -12,6 +12,12 @@ body {
   color: #fff;
   line-height: 1.6;
 }
+.active{
+  color: #00acee;
+  
+}
+
+
 
 ul {
   list-style: none;
@@ -97,7 +103,7 @@ header {
 }
 
 [type='radio']:checked ~ label {
-  background: #ff6a95;
+  background: #00acee;
   color: #fff;
 }
 
